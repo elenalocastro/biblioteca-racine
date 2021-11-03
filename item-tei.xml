@@ -1,0 +1,38 @@
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+<tei:teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<fileDesc>
+	<titleStmt>
+	<title>Petri Victorii Commentarii in primum librum Aristotelis De arte poetarum</title>
+	<author>Pietro Vettori</author>
+	<respStmt>
+	<resp>transcription</resp>
+	<name>Elena Lo Castro</name>
+	</respStmt>
+	</titleStmt>
+	<publicationStmt>
+	<publisher>Elena Lo Castro</publisher>
+	 <pubPlace>Bologna, IT</pubPlace>
+	 <date>2021</date>
+	 <availability>
+	  <p>This is an open access work licensed under a Creative Commons Attribution (CC BY-NC-ND 3.0).</p>
+	 </availability>
+	</publicationStmt>
+	<sourceDesc>
+	<p>Transcribed from printed edition</p>
+	</sourceDesc>
+</fileDesc>
+</tei:teiHeader>
+<text xmlns="http://www.tei-c.org/ns/1.0">
+<body>
+<div type="capitolo"> 
+
+<p>
+	<hi rend="italic">οὐδὲν γὰρ ἂν ἔχοιμεν ὀνομάσαι κοινὸν τοὺς <name type="person">Σώφρονος</name> καὶ <name type="person">Ξενάρχου</name> μίμους καὶ τοὺς Σωκρατικοὺς λόγους οὐδὲ εἴ τις διὰ τριμέτρων ἢ ἐλεγείων ἢ τῶν ἄλλων τινῶν τῶν τοιούτων ποιοῖτο τὴν μίμησιν. Πλὴν οἱ ἄνθρωποί γε συνάπτοντες τῷ μέτρῳ τὸ ποιεῖν ἐλεγειοποιοὺς τοὺς δὲ ἐποποιοὺς ὀνομάζουσιν, οὐχ ὡς κατὰ τὴν μίμησιν ποιητὰς ἀλλὰ κοινῇ κατὰ τὸ μέτρον προσαγορεύοντες· καὶ γὰρ ἂν ἰατρικὸν ἢ φυσικόν τι διὰ τῶν μέτρων ἐκφέρωσιν, οὕτω καλεῖν εἰώθασιν· οὐδὲν δὲ κοινόν ἐστιν <name type="person">Ὁμήρῳ</name> καὶ <name type="person">Ἐμπεδοκλεῖ</name> πλὴν τὸ μέτρον, διὸ τὸν μὲν ποιητὴν δίκαιον καλεῖν, τὸν δὲ φυσιολόγον μᾶλλον ἢ ποιητήν· ὁμοίως δὲ κἂν εἴ τις ἅπαντα τὰ μέτρα μιγνύων ποιοῖτο τὴν μίμησιν καθάπερ <name type="person">Χαιρήμων</name> ἐποίησε <name type="work">Κένταυρον</name> μικτὴν ῥαψῳδίαν ἐξ ἁπάντων τῶν μέτρων, καὶ ποιητὴν προσαγορευτέον.</hi>
+</p>
+
+<note resp="Racine" place="sinistra" target="οὐδὲν γὰρ ἂν" targetEnd="καὶ ποιητὴν προσαγορευτέον.">Traduzione di Racine</note>
+</div>
+</body>
+
+</text>
+</tei:TEI>

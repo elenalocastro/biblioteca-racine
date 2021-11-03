@@ -1,0 +1,63 @@
+.container-fluid {
+  background-color: #dbd4c9;
+  max-width: 1500px;
+}
+
+h2 {
+  background-color: #8e7a6e;
+  text-align: center;
+  padding: 20px;
+}
+
+aside {
+  margin-top: 50px;
+}
+
+#sidebar {
+  margin-right:0;
+  padding: 0;
+  width: 200px;
+  background-color: #9a8d82;
+  /* position: fixed; se la voglio su tutta la pagina */
+  float: left;
+  height: 100%;
+  overflow: auto;
+}
+
+/* Sidebar links */
+#sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+
+/* Active/current link */
+#sidebar a.active {
+  background-color: #555;
+  color: white;
+}
+
+/* Links on mouse-over */
+#sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+
+
+
+.container {
+  float: right;
+  margin-top: 49px;
+  margin-bottom: 100px;
+}
+
+#pagination {
+  background-color: #8e7a6e;  
+  padding-top: 20px;
+  }
+
+body {
+  background-color: #ebf7f6;
+}

@@ -1,0 +1,71 @@
+body {
+  background-color: #dbd4c9;
+}
+
+
+
+.jumbotron {
+  background-image: url("immagini/firma-racine-ridotta.jpeg");
+  border-bottom: solid;
+  max-width: 2000px;
+}
+
+.container {
+  background-image: url("immagini/immagine-progetto.jpeg");
+  max-width: 1200px;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+
+#progetto {
+  border-style: hidden;
+}
+
+
+#esplora {
+  background-image: url("immagini/firma-racine-2.jpeg");
+  border-style: groove;
+  margin-top: 80px;
+  padding: 40px;
+  max-width: 1500px;
+  margin-bottom: 30px;
+}
+
+.card-group {
+  margin-left: 40px;
+}
+
+h6 {
+  padding-top: 30px;
+  font-size: 40px;
+}
+
+
+
+.col-md-4 {
+  margin-top: 100px;
+}
+
+.col-md-6 {
+  margin-top: 100px;
+}
+
+.col-md-10 {
+  margin-top: 100px;
+}
+ 
+ .list-group {
+  margin-bottom: 20px;
+ }
+
+
+footer {
+  background-color: #ebf7f6;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  
+}

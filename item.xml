@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="BDR">
+	<item n="1" xml:id="BDR-1">
+    <dc:title>Petri Victorii Commentarii in primum librum Aristotelis De arte poetarum </dc:title>
+		<dc:creator>Piero Vettori</dc:creator>
+		<dc:date>1573</dc:date>
+		<dc:subject>Commentarii</dc:subject>
+		<dc:subject>Aristotelis de arte poetarum</dc:subject>
+		<dc:description>Commento in latino di Piero Vettori al testo greco della Poetica di Aristotele</dc:description>
+		<dc:publisher>officina Juntarum, Bernardi filiorum (Florentiae)</dc:publisher>
+		<dc:type>edizione a stampa</dc:type>
+		<dc:format>[20]-308-[10] p.; in-fol.</dc:format>
+		<dc:identifier>file:///C:/Users/Utente/Desktop/progetto%20DH/item.html</dc:identifier> <!--provvisorio-->
+		<dc:language>latin-greek</dc:language>
+		<dc:coverage>France</dc:coverage>
+		<dc:rights>Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)</dc:rights>
+    </item>
+</library>
